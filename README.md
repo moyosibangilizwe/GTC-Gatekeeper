@@ -41,8 +41,8 @@ Listen to the high-level policy briefing on the GTC Gatekeeper framework:
 
 ## 📂 Repository Structure
 * `/docs`: Detailed technical specifications and legal drafting.
-* `The_GTC_Gatekeeper_Framework.pdf`: The official "Paper of Record."
-* `Red_Flag_Checklist.md`: Operational tool for compliance officers.
+* [📄 Read the Full Technical Paper](./The_GTC_Gatekeeper_Framework.pdf)
+  
 
 ---
 
